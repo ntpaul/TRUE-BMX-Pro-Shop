@@ -1,0 +1,54 @@
+.menuStyle{
+	background-color: #000000;
+}
+
+.menuBrand{
+	color: #81d742;
+
+}
+
+.menuList {
+	padding-right: 1.2em;
+}
+
+.menuItem{
+	color: white;
+}
+
+a.menuItem:hover{
+	color: #81d742;
+}
+
+.header{
+	position: relative;
+
+	top: -50px;
+	min-height: 100%;
+
+	background-image: url('http://truebmxproshop.com/wp-content/uploads/2016/12/PanoInside.jpg');
+
+	background-size: cover;
+	background-position: center;
+}
+.headerText {
+	float: right;
+	text-align: right;
+}
+
+.headerTitle {
+	font-size: 50px;
+	margin-top: 25%;
+	color: #81d742;
+}
+
+.headerDescription{
+	font-size: 30px;
+	color: #808080;
+}
+
+
+.learnMoreButton{
+	background-color: #81d742;
+	color: white;
+	padding: 5;
+}
